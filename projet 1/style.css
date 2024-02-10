@@ -1,0 +1,49 @@
+.m1 {
+text-align: center;
+color: rgb(50, 119, 180);
+font-size: 60px;
+}
+
+.m2 {
+text-align: center;
+font-size: 60px;
+
+color: rgb(49, 8, 8)
+}
+
+.z1 {border-style:solid;
+    margin: 1px;
+    
+    border-color:yellow;
+    padding: 5px;
+    border-radius: 10px;
+
+background-color:red;}
+
+body {
+background-color: beige;
+}
+
+.d1 {
+color: brown;
+font-size: 50px;
+text-align: left;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+ 
+ p {
+    color: blue;
+}
+.t {
+    background-color: darkturquoise;
+}
+.j2 {
+    font-size: 60px;
+    text-align: left;
+    margin: 100px;
+}
+section {
+    background-color: 
+}
+
+
+
